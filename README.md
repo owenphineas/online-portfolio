@@ -8,7 +8,7 @@ to various deployed projects. Finally, the page lists my contact information: my
 N/A
 
 ## Usage
-This is a webpage that can be viewed with a browser. The page contains links to other deployed webpages I have worked on, as well as links to my github and email.
+This is a webpage that can be viewed with a browser. The page contains links to other deployed webpages I have worked on, as well as links to my github and email. The repository for this page is located at https://github.com/owenphineas/online-portfolio. The page is live at https://owenphineas.github.io/online-portfolio/.
 
 ## License
 MIT License
